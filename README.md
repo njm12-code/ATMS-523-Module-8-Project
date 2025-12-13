@@ -110,16 +110,7 @@ project/
 Key packages used:
 numpy
 pandas
-matplotlib
-scikit-learn
-dask
-requests
-tqdm
-xarray
-seaborn
-Key packages:
-numpy
-pandas
+datetime
 matplotlib
 scikit-learn
 dask
